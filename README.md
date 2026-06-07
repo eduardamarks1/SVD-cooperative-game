@@ -4,9 +4,6 @@ Experimento numérico para o artigo *Rank-Budget Cooperative Games for PCA: Leas
 Spectral Scarcity, and Stability Diagnostics*. Tudo está no notebook
 [`experimento_least_core.ipynb`](experimento_least_core.ipynb).
 
-Este README é escrito para quem **não conhece teoria dos jogos cooperativos** — a ideia
-é construir a intuição do zero, com uma analogia única (uma banda de música) que volta
-em todo lugar.
 
 ---
 
